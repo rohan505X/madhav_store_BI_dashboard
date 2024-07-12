@@ -1,6 +1,10 @@
 # Madhav_Store_PowerBI_Dashboard
 Professional Power Bi Dashboard
 
-Complete Power BI project using retail store sales data 
+Project Highlights:
+Interactive Dashboard: Created to monitor and analyze sales data from various online platforms.
 
-Watch tutorial video on YouTube :)
+Complex Parameters: Implemented to drill down into worksheets with extensive customization using filters and slicers.
+
+Data Integration: Established connections and joined new tables, performing calculations to manipulate data and enable user-driven parameters for visualizations.
+Customized Visualizations: Utilized various chart types, including bar charts, pie charts, donut charts, area charts, maps, and slicers for comprehensive data insights.
